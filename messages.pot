@@ -54,11 +54,11 @@ msgid "Disable updates"
 msgstr ""
 
 #: backend.php:93 backend.php:103
-msgid "Each 15 minutes"
+msgid "Every 15 minutes"
 msgstr ""
 
 #: backend.php:94 backend.php:104
-msgid "Each 30 minutes"
+msgid "Every 30 minutes"
 msgstr ""
 
 #: backend.php:95 backend.php:105
@@ -66,11 +66,11 @@ msgid "Hourly"
 msgstr ""
 
 #: backend.php:96 backend.php:106
-msgid "Each 4 hours"
+msgid "Every 4 hours"
 msgstr ""
 
 #: backend.php:97 backend.php:107
-msgid "Each 12 hours"
+msgid "Every 12 hours"
 msgstr ""
 
 #: backend.php:98 backend.php:108
